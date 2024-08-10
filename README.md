@@ -13,7 +13,7 @@
 
 
 # Projeto Integrador 
- O projeto integrador é uma atividade desenvolvida pelos alunos e incorporada ao ensino pedagógico da instituição FATEC. É focada na aprendizagem de fundamentos e conceitos, além do desenvolvimento de competências e habilidades práticas. Seu principal objetivo é a integração entre teoria e prática. 
+ O projeto integrador é uma atividade desenvolvida pelos alunos e incorporada ao ensino pedagógico. É focada na aprendizagem de fundamentos e conceitos, além do desenvolvimento de competências e habilidades práticas. Seu principal objetivo é a integração entre teoria e prática. 
 
 
 # Equipe
