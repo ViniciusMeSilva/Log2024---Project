@@ -13,7 +13,7 @@
 
 
 # Projeto Integrador 
- O projeto integrador é um projeto incorporado ao ensino pedagógico, é focado na aprendizagem de fundamentos e conceitos, além do desenvolvimento de competências e habilidades práticas, e a integração entre teoria e prática. Baseado nesses pilares, o projeto, utilizando a base de dados de importações e exportações de municípios da RMVALE e Litoral Norte, tem como intuito mapear potenciais cargas  para movimentação através do Aeroporto de São José dos Campos (SJK). 
+ O projeto integrador é um projeto incorporado ao ensino pedagógico, é focado na aprendizagem de fundamentos e conceitos, além do desenvolvimento de competências e habilidades práticas. Seu principal objetivo é a integração entre teoria e prática. 
 
 
 # Equipe
@@ -27,7 +27,9 @@
 
 
 # Objetivo do Projeto
-O Projeto tem como objetivo criar interfaces que permitam a visualização de cargas que tenham potencial para exportação pelo aeroporto de SJK.
+
+Utilizando a base de dados (retirada do COMEX-Stat) de exportações nos municípios da RMVALE e Litoral Norte no ano de 2023, o projeto tem como intuito mapear potenciais cargas  para movimentação através do Aeroporto de São José dos Campos (SJK).
+
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
