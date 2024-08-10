@@ -46,8 +46,7 @@ Sprint | Previsão | Status| Histórico|
 |02| 06/05/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%20sprint%202.pdf) | 
 |03| 27/05/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/relatorio%20sprint%203.pdf) | 
 |04| 17/06/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%204.pdf)  | 
-
-**|Apresentação final na Feira de Soluções|27/06/2024 | Concluído |**
+|Apresentação final na Feira de Soluções|27/06/2024 | Concluído |
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
