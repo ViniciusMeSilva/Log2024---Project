@@ -1,4 +1,4 @@
-# Projeto Integrador (API)
+# Aprendizagem por Projeto Integrador (API) 2024.1
 # Índice
 
 * [Projeto](#projeto-API)
@@ -12,9 +12,8 @@
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
-# Projeto (API) 
- O projeto integrador (API) é um projeto pedagógico, onde o ensino é focado no desenvolvimento de competências e fundamentos, com base nesses pilares o projeto tem como intuito mapear potenciais cargas para movimentação no
-Aeroporto de São José dos Campos com base de dados de importações e exportações de municípios da RMVALE e Litoral Norte. 
+# Projeto Integrador 
+ O projeto integrador é um projeto incorporado ao ensino pedagógico, é focado na aprendizagem de fundamentos e conceitos, além do desenvolvimento de competências e habilidades práticas, e a integração entre teoria e prática. Baseado nesses pilares, o projeto, utilizando a base de dados de importações e exportações de municípios da RMVALE e Litoral Norte, tem como intuito mapear potenciais cargas  para movimentação através do Aeroporto de São José dos Campos (SJK). 
 
 
 # Equipe
